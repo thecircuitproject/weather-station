@@ -14,6 +14,7 @@ This project uses a Raspberry Pi Pico W, an AHT20 temperature and humidity senso
 
 - MicroPython
 - Thonny IDE or any other Python IDE that supports MicroPython
+- API Key from https://openweathermap.org/
 
 ## Setup
 
