@@ -25,6 +25,8 @@ This project uses a Raspberry Pi Pico W, an AHT20 temperature and humidity senso
 
 4. **Change the name of the keys module**: Rename `example_key.py` to `key.py`.
 
+5. **Before running the `weather_station.py` file**: upload `key.py` and `AHT.py` to the Pico board.
+
 ## License
 
 This project is licensed under the MIT License.
